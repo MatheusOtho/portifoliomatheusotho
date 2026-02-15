@@ -127,10 +127,4 @@
     background-color: rgba(232, 233, 233, 0.74);
 }
 
-@media screen and (max-width: 768px) {
-    .container{
-        display: block;
-        background-image: none;
-        
-    }
-}
+
