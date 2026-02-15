@@ -101,4 +101,13 @@
   color: inherit;
   text-decoration: none;
   margin: 0 auto;
+
+}
+
+@media screen and (max-width: 768px) {
+    .container{
+        display: block;
+        background-image: none;
+        
+    }
 }
