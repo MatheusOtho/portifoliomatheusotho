@@ -36,6 +36,7 @@
 
 .home:hover{
     transform: scale(1.1);
+    transition: 500ms;
 }   
 
 .icon{    
@@ -72,6 +73,7 @@
 
 .projetosimg:hover{
     transform: scale(1.03);
+    transition: 500ms;
 }
 
 .projetostext{
