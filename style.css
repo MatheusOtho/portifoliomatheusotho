@@ -47,9 +47,12 @@
         padding: 10px 20px;
         background: linear-gradient(rgb(0, 53, 83),rgb(25, 98, 139),rgb(39, 112, 155));
         color: white;
-        margin-left: 20px;
         font-size: 20px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .botaoin{
+        width: 97%;
     }
 
     .legs2:hover{
@@ -160,7 +163,6 @@
 
 .cont{
     display: grid;
-
 }
 
 
@@ -200,6 +202,10 @@
     }
 
    .linkedin{
-        margin-left: 20px;
+        margin: 25px;
+   }
+
+   .legs2{
+    margin-left: 10px;
    }
 }
